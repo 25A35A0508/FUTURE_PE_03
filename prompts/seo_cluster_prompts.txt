@@ -1,0 +1,44 @@
+==================================================
+PROMPT 1: THE TOPICAL CLUSTER BLUEPRINT & INTENT MAPPER
+==================================================
+[Role]: You are a Senior SEO Strategist and Content Architect specializing in Local SEO.
+[Context]: I need an SEO content cluster strategy for a local dental clinic called "Apex Dental Care" located in Bangalore, India. The primary high-volume keyword group we want to target is "Dental Implants in Bangalore".
+[Objective]: Establish authoritative topical relevance on Google by designing an interconnected cluster map.
+
+[Instructions]: Generate an SEO cluster blueprint covering:
+1. One Core Pillar Blog Title targeting broad commercial/informational intent for local users.
+2. Three specific Supporting Long-Tail Blog Titles targeting transactional, FAQ, or service-specific intents.
+3. An explicit structural internal linking workflow detailing how the supporting blogs must pass link equity back to the core pillar.
+
+[Output Format]: Markdown.
+
+==================================================
+PROMPT 2: CORE PILLAR ARTICLE STRUCTURAL BLUEPRINT
+==================================================
+[Role]: You are an Expert SEO Content Engineer.
+[Context]: I need a structured framework and layout for our main Core Pillar Blog based on our Apex Dental Care cluster strategy.
+[Target Primary Keyword]: "Best Dental Clinic in Bangalore – Services, Cost & What to Expect"
+
+[Instructions]: Create a highly structured, content-rich outline utilizing semantic H1, H2, and H3 structures. The outline must include:
+- An introduction framework addressing direct informational local search intent.
+- Section subheadings dividing pricing overviews, procedure steps, and candidate criteria.
+- Context placeholders mapping exactly where internal anchor texts from supporting sub-topics will merge into this page.
+- A trust-focused business conclusion with a high-conversion call-to-action (CTA) pointing to Apex Dental Care's booking system.
+
+[Output Format]: Markdown.
+
+==================================================
+PROMPT 3: LOCALIZED SUPPORTING ARTICLE GENERATION ENGINE
+==================================================
+[Role]: You are a conversion-oriented B2C Content Copywriter specializing in Local Business SEO.
+[Context]: I need a complete, long-form supporting blog post for the Apex Dental Care cluster.
+[Target Long-Tail Keyword]: "Dental Implant Cost in Bangalore - Complete Price Breakdown"
+
+[Instructions]: Write a deep-dive, helpful article (minimum 600 words) meeting these structural parameters:
+1. Use an H1 title and logical H2/H3 subheadings containing natural geographic location tags (e.g., Bangalore, Indiranagar, Koramangala).
+2. Address local transactional search intent directly by laying out a transparent, value-focused cost breakdown breakdown.
+3. Embed an explicit contextual anchor link pointing back to the main pillar article url (`/blog/best-dental-clinic-bangalore-guide`).
+4. Keep the tone empathetic, professional, and thoroughly readable to comply with Google's helpful content systems.
+
+[Output Format]: Markdown.
+
